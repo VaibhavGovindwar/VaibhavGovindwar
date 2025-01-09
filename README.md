@@ -8,7 +8,7 @@
 
 ## About 👇  
 
-I am an aspiring Python Developer with a strong foundation in Python programming, machine learning, and deep learning. Passionate about leveraging Python to build efficient, user-centric applications, I specialize in frameworks like TensorFlow, NumPy, Matplot, and Pandas. My hands-on experience includes building machine learning and deep learning models for future predictions and implementing software solutions like facial expression recognition using CNNs and plant disease detection systems. A collaborative team player with a dedication to continuous learning, I bring a solution-oriented mindset to every project.  
+I am an aspiring Python Developer with a strong foundation in machine learning, deep learning, and Data Visualization. I specialize in frameworks like TensorFlow, NumPy, Matplot, and Pandas. My hands-on experience in building future prediction models and implementing software solutions like facial expression recognition using CNNs and plant disease detection systems. A collaborative team player with a dedication to continuous learning, I bring a solution-oriented mindset to every project.  
 
 ## Internships
 - **IBase ElectroSoft Pvt Ltd**            (March 2021 - April 2021)  
