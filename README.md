@@ -1,9 +1,9 @@
-# **👋 Hi, I am @VaibhavGovindwar**
+# **👋 Hi, I am VaibhavGovindwar**
 
 ## 🚀 Python Developer focusing on Data science and ML/DL
 
  📍 Maharashtra, Allapalli \
- 📬 Mail: [VG@connect](govindwarvaibhav@gmail.com)   
+ 📬 Mail: [connect](govindwarvaibhav@gmail.com)   
 🔗 LinkedIn: [Vaibhav Govindwar](www.linkedin.com/in/vaibhav-govindwar-586183229)  
 
 ## About 👇  
