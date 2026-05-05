@@ -23,12 +23,13 @@ I am an aspiring Python Developer with a strong foundation in machine learning, 
 ## Tech Tools 🧑‍💻  
 - **Languages -** Python
 - **Libraries-** Numpy, Matplot, Pandas, Tensorflow, Seaborn, cv2, Flask
-- **Tools-** GitHub
+- **Tools-** GitHub, PowerBI, Excel
 - **NoteBook-** Kaggle, Pycharm, VScode
 - **Specialties-** Data Scientist, Machine Learning, Deep Learning, Data Visualization  
 
 
 ## Education 🧑‍🎓  
+- **MTECH in Data Science**, GIATM DEEMED TO BE UNIVERSITY, HYDERABAD
 - **BTech in Computer Technology**, Priyadarshini College of Engineering, Nagpur
 
 
