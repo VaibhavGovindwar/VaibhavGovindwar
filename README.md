@@ -2,7 +2,7 @@
 
 # VAIBHAV GOVINDWAR
 
-### DATA SCIENCE · MACHINE LEARNING · ARTIFICIAL INTELLIGENCE
+##### DATA SCIENCE · MACHINE LEARNING · ARTIFICIAL INTELLIGENCE · AI Agents · Multi-Agents · Data Analytics 
 
 **Transforming data into insights and intelligent solutions.**
 
@@ -38,14 +38,14 @@
 
 ### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGovindwar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="100%" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGovindwar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="200" width="100%" alt="Top languages">
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavGovindwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" width="100%" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavGovindwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" width="100%" height="200" alt="GitHub statistics">
 
 </td>
 </tr>
@@ -55,40 +55,26 @@
 
 ### Contribution Activity
 
-<img src="https://streak-stats.demolab.com?user=VaibhavGovindwar&theme=tokyonight&hide_border=true&background=0D1117" width="90%" alt="GitHub contribution streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavGovindwar&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub activity graph">
+<img src="https://streak-stats.demolab.com?user=VaibhavGovindwar&theme=tokyonight&hide_border=true&background=0D1117" height="200" width="90%" alt="GitHub contribution streak">
 
 </div>
 
 ---
 
+
 ## 🚀 FEATURED PROJECTS
+
 
 <div align="center">
 
-<a href="PROJECT_1_URL">
-  <img src="./assets/project-1.svg" width="48%" alt="Plant Disease Detection">
-</a>
-<a href="PROJECT_2_URL">
-  <img src="./assets/project-2.svg" width="48%" alt="YOLOv8 Object Detection">
-</a>
+<a href="https://github.com/VaibhavGovindwar/Plant-Diseases-Detection"><img src="./assets/plant-disease.svg" width="48%" alt="Plant Disease Detection"></a>
+<a href="https://github.com/VaibhavGovindwar/YOLOv8-Multiple-Object-Detection"><img src="./assets/yolov8-detection.svg" width="48%" alt="YOLOv8 Object Detection"></a>
 <br>
-<a href="PROJECT_3_URL">
-  <img src="./assets/project-3.svg" width="48%" alt="Diabetes Prediction">
-</a>
-<a href="PROJECT_4_URL">
-  <img src="./assets/project-4.svg" width="48%" alt="Facial Expression Recognition">
-</a>
+<a href="https://github.com/VaibhavGovindwar/Diabetes-prediction-app"><img src="./assets/diabetes-prediction.svg" width="48%" alt="Diabetes Prediction"></a>
+<a href="https://github.com/VaibhavGovindwar/Facial-Expression-Recognition-using-CNN"><img src="./assets/facial-expression.svg" width="48%" alt="Facial Expression Recognition"></a>
 <br>
-<a href="PROJECT_5_URL">
-  <img src="./assets/project-5.svg" width="48%" alt="Superstore Sales Dashboard">
-</a>
-<a href="PROJECT_6_URL">
-  <img src="./assets/project-6.svg" width="48%" alt="Credit Card Data Visualization">
-</a>
-
-</div>
+<a href="https://github.com/VaibhavGovindwar/Superstore-Sales-DashBoard"><img src="./assets/superstore-dashboard.svg" width="48%" alt="Superstore Sales Dashboard"></a>
+<a href="https://github.com/VaibhavGovindwar/Credit-card-Data-Visualization"><img src="./assets/credit-card-visualization.svg" width="48%" alt="Credit Card Data Visualization"></a>
 
 <div align="center">
 
@@ -110,9 +96,9 @@
 <img src="https://img.shields.io/badge/Explainable_AI-D97706?style=flat-square">
 <img src="https://img.shields.io/badge/Multi--Agent_AI-DB2777?style=flat-square">
 
-**Research direction**
+**Current Research**
 
-Multi-Agent LLM System for Automated Data Analysis and Visualization.
+Multi-Agent decision support for plant diseases detection using Rag and LLM
 
 </div>
 
@@ -152,23 +138,6 @@ Multi-Agent LLM System for Automated Data Analysis and Visualization.
 
 ---
 
-## 🤝 CONNECT
-
-<div align="center">
-
-**Interested in Data Science, AI/ML projects, and research collaborations.**
-
-<a href="https://vaibhav-govindwar.pages.dev/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/vaibhav-govindwar-586183229">LinkedIn</a> ·
-<a href="mailto:govindwarvaibhav@gmail.com">Email</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=VaibhavGovindwar&style=flat-square&color=0D9488" alt="Profile views">
-
-</div>
-
----
 
 <div align="center">
 
